@@ -1,4 +1,4 @@
-import logo from "./log.png";
+import logo from "./logo.png";
 import hero_img from "./hero-image.jpg";
 import hero_img1 from "./hero-image1.jpg";
 import product_item1 from "./product-item1.jpg";
